@@ -9,11 +9,6 @@ Welcome to the source code of my portfolio! Here is where I am currently running
 ## Live Application
 [My Portfolio](https://hucklebun.github.io/react-portfolio/)
 
-## Demo
-[Demo One](https://drive.google.com/file/d/1bjzgC1R0nzx0_Z3JXCj2ZN7dCRQiDMah/view?usp=sharing)
-<br/>
-[Demo Two](https://drive.google.com/file/d/1LOwA6rpZHpfeIhUfC3GPX9y3E8bKtanJ/view?usp=sharing)
-
 ## Contribution
 Micah Duehring (hucklebun)
 
