@@ -1,6 +1,6 @@
 {
-  "homepage": "http://hucklebun.github.io/professional-react-portfolio",
-  "name": "professional-react-portfolio",
+  "homepage": "http://hucklebun.github.io/react-portfolio",
+  "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
